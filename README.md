@@ -31,3 +31,45 @@ function elefante(){
   }
 
 }  
+
+
+
+<!DOCTYPE html>
+<html lang="PT-BR">
+<head>
+    <meta charset="UTF-8">
+    <script src="atividade.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Notas e média ponderada</title>
+    
+</head>
+<body>
+    <p>clica no botao chefe</p>
+
+
+<br>
+
+<button onclick="ler()">20 numerozin </button>
+<p id="resultado"></p>
+</body>
+</html>
+
+////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////
+
+function ler(){
+
+    let i = 1
+    let n
+    console.log(inicio = 1);
+
+    for(let j=1; j<20; j++){ 
+        n +=  i;
+        console.log (i = (i *2) + 1) ;
+        
+        
+        
+       
+    }
+    
+    }
